@@ -1,2 +1,2 @@
 # RGIT-Demo
-## Author - SUraj Nate
+## Author - Suraj Nate
